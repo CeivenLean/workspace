@@ -1,0 +1,15 @@
+astroid==2.2.5
+cx-Oracle==7.2.2
+cy-Oracle==0.4.0
+Cython==0.29.13
+et-xmlfile==1.0.1
+isort==4.3.21
+jdcal==1.4.1
+lazy-object-proxy==1.4.2
+mccabe==0.6.1
+openpyxl==2.6.3
+pylint==2.3.1
+pymssql==2.1.4
+six==1.12.0
+typed-ast==1.4.0
+wrapt==1.11.2
