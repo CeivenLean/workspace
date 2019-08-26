@@ -1,3 +1,4 @@
+APScheduler==3.6.1
 astroid==2.2.5
 cx-Oracle==7.2.2
 cy-Oracle==0.4.0
@@ -10,6 +11,8 @@ mccabe==0.6.1
 openpyxl==2.6.3
 pylint==2.3.1
 pymssql==2.1.4
+pytz==2019.2
 six==1.12.0
 typed-ast==1.4.0
+tzlocal==2.0.0
 wrapt==1.11.2
